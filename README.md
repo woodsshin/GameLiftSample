@@ -7,7 +7,7 @@ https://forums.unrealengine.com/unreal-engine/marketplace/123418-released-gameli
 Intended Platform : Window for client, Window & Linux for dedicated server
 
 # GameLift Flex match Demo
-##### [![GameLift Plugin Devmo](https://i9.ytimg.com/vi/bCFNv9zUqcM/mq2.jpg?sqp=CJzqgfgF&rs=AOn4CLDVP6opam79nTsu_4Hwqq9GiOOryQ)](https://www.youtube.com/watch?v=8-pkjgSx2qI) 
+##### [![GameLift Plugin Demo](https://i.ytimg.com/vi/bCFNv9zUqcM/hqdefault.jpg)](https://www.youtube.com/watch?v=8-pkjgSx2qI) 
 
 # Contact and Support
 mail : cyberjjanggu@gmail.com
